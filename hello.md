@@ -1,9 +1,9 @@
 자기소개서
 ``````````````````
-이름  : 
+이름  : 성우현
 
-팀  :  
+팀  :  티켓서비스
 
-Github ID  :  
+Github ID  : kiamsung  
 
-E-mail  :  
+E-mail  :  kiamsung@wemakeprice.com
